@@ -1,6 +1,6 @@
 # Whatsapp Clone
 
-My project where I cloned some screens of whatsapp as a design.
+My project where I cloned some screens of Whatsapp as a design.
 
 ## To start the project
 
